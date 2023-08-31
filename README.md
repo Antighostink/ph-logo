@@ -5,7 +5,7 @@
 
 ```shell
 $ git clone https://github.com/akarrin/ph-logo.git
-$ cd ph-logo
+$ cd Eks-kul
 $ pip install -r requirements.txt
 ```
 
